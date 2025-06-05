@@ -1,0 +1,10 @@
+
+Library/
+Logs/
+UserSettings/
+
+*.csproj
+
+*.sln
+
+.idea
