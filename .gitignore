@@ -2,6 +2,10 @@
 Library/
 Logs/
 UserSettings/
+Temp/
+Obj/
+Assets/TextMesh pro
+Assets/TextMesh Pro.meta
 
 *.csproj
 
